@@ -7,7 +7,7 @@
 This project features a simple, yet engaging interface where users can **select albums**, **play associated music tracks**, and view **real-time updates** to track information. The experience is enriched with a **visually spinning LP record** and **dynamic background color changes** that adapt to the mood of the music.
 
 # Video of project
-[![ScreenShot](https://github.com/user-attachments/assets/513067f0-d6b1-45fd-ae4c-928d0bf4bcf4)](https://vimeo.com/1098452977)
+[![ScreenShot](https://github.com/user-attachments/assets/b300e37d-0509-463b-87e3-898ac5e36954)(https://vimeo.com/1098452977)
 
 
 ---
